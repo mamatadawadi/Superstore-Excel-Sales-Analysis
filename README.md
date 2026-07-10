@@ -1,7 +1,7 @@
-# Superstore-Excel-Sales-Analysis
+•	# Superstore-Excel-Sales-Analysis
 •	### Excel | Power Query | Pivot Tables | Data Visualization | Business Insights
 •	
-•	## Project Overview ##
+•	## Project Overview
 •	
 •	This project analyzes retail sales data to identify sales performance, profitability trends, customer behavior, and areas for business improvement. 
 •	
@@ -176,4 +176,7 @@
 •	3. Improve profitability by analyzing product costs and pricing strategies.
 •	4. Prepare inventory and promotions ahead of peak sales months.
 •	5. Expand successful strategies from high-performing regions.
-
+•	
+•	---
+•	
+# Project Files
